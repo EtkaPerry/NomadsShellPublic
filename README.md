@@ -38,6 +38,7 @@ The upgrade tree continues to expand with exciting new features in development:
 - **Bed Integration**: Sleep anywhere with portable bed functionality
 - **Ender Chest Access**: Connect to your ender storage network
 - **Villager Trading**: Trade with villagers directly from your shell
+- **Enchanting Table**: Enchant items using bookshelves and lapis lazuli
 - **And much more**: The upgrade tree is constantly growing with new possibilities
 
 ### 🎮 **User Experience**
